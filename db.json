@@ -1,0 +1,70 @@
+{
+  "cards": [
+    {
+      "header": "Разнорабочие",
+      "image": "img/slide-1.png",
+      "price": "255"
+    },
+    {
+      "header": "Разнорабочие",
+      "image": "img/slide-2.png",
+      "price": "413"
+    },
+    {
+      "header": "Разнорабочие",
+      "image": "img/slide-3.png",
+      "price": "2315"
+    },
+    {
+      "header": "Разнорабочие",
+      "image": "img/slide-4.png",
+      "price": "323"
+    },
+    {
+      "header": "Разнорабочие",
+      "image": "img/slide-5.png",
+      "price": "554"
+    },
+    {
+      "header": "Разнорабочие",
+      "image": "img/slide-4.png",
+      "price": "323"
+    },
+    {
+      "header": "Разнорабочие",
+      "image": "img/slide-4.png",
+      "price": "323"
+    },
+    {
+      "header": "Программист",
+      "image": "img/slide-2.png",
+      "price": "1500"
+    },
+    {
+      "header": "Кэсач",
+      "image": "img/slide-2.png",
+      "price": "10000000"
+    }
+  ],
+  "postsData": [
+    {
+      "name": "Andrey",
+      "phone": "+375297579370",
+      "id": 1
+    },
+    {
+      "name": "Andrey",
+      "phone": "+375297579370",
+      "id": 2
+    }
+  ],
+  "calc": [
+    {
+      "proff": "Програмист",
+      "score": "4",
+      "time": "3",
+      "phone": "+375297579370",
+      "id": 1
+    }
+  ]
+}

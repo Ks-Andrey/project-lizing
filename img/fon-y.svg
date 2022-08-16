@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2559" height="657" viewBox="0 0 2559 657">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffaeb;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Фон" class="cls-1" d="M89.558,1.3L2468.6-.153a90,90,0,0,1,90.06,89.945l0.29,475.347A90,90,0,0,1,2469,655.194L89.96,656.65A90,90,0,0,1-.1,566.706L-0.387,91.359A90,90,0,0,1,89.558,1.3Z"/>
+</svg>
