@@ -1,3 +1,7 @@
+require('es6-promise').polyfill();
+import 'nodelist-foreach-polyfill';
+
+
 import validate from './modules/validate';
 import form from './modules/form';
 import sendForm from './modules/send';

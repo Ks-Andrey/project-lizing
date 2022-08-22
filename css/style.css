@@ -30,6 +30,10 @@ body {
     opacity: 1;
   }
 }
+.valid {
+  border-color: red !important;
+}
+
 .btn {
   max-width: 100%;
   padding: 0 10px;

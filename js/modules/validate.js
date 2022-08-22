@@ -11,7 +11,7 @@ export default function validate(formContSelector) {
 			if (!(item.value == '')) {
 				valueTrue++;
 			}else{
-				item.style.borderColor = 'red';
+				item.classList.add('valid');
 			}
 		});
 		if (valueTrue == inputs.length) {
@@ -22,4 +22,10 @@ export default function validate(formContSelector) {
 			valueTrue = 0;
 		}
 	});
+
+	inputs.forEach(item => {
+		item.addEventListener('input', () => {
+			item.classList.remove('valid');
+		})
+	})
 }
